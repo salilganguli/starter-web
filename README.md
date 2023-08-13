@@ -3,6 +3,10 @@
 This repository is for showing how Git and GitHub work.
 bla bla bla.
 
+
+
+adding another paragraph into this.
+
 ##Deployment
 
 ## Purpose
