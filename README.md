@@ -16,3 +16,8 @@ The main purpose is to see how readme file is getting used.
 
 
 Sample website with plenty of files for demos
+
+
+###Copyright
+
+2023 Git.training copyright
