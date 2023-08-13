@@ -7,6 +7,14 @@ bla bla bla.
 
 adding another paragraph into this.
 
+
+
+##How to contribute?
+
+Please fork this repository and then issue pull.
+
+
+
 ##Deployment
 modifying deployment /.skjdksdksjdksjdksjdksjdkjsd.
 
