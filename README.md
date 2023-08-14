@@ -30,4 +30,4 @@ Sample website with plenty of files for demos
 
 ###Copyright
 
-2023 Git.training copyright
+2023 Git.training copyright.... All rights reservers,., learning stash.
