@@ -2,7 +2,8 @@
 
 This repository is for showing how Git and GitHub work.
 bla bla bla.
-Adding a line for rebasing example.
+Adding a line for rebasing example, then more changes from myfeaturebranch too.
+
 
 
 
