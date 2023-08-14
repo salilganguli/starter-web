@@ -1,2 +1,4 @@
 .DS_Store
 log/
+*.orig
+*_4338.html
