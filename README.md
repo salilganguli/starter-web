@@ -2,9 +2,7 @@
 
 This repository is for showing how Git and GitHub work.
 bla bla bla.
-Adding a line for rebasing example, then more changes from myfeaturebranch too.
-
-
+We are doing emergeny fix after the stash of tracked and untracked file.
 
 
 adding another paragraph into this.
